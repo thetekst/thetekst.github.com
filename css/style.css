@@ -32,6 +32,12 @@ left:50;
 top:120;
 }
 
+#butt {
+position: absolute;
+left:294px;
+top:-14px;
+}
+
 #phones {
 position:fixed;
 width:32px;
