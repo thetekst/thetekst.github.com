@@ -17,6 +17,7 @@ backgrond-color:#C3E0F9;
 }
 
 #header {
+margin:0 auto;
 height:75px;
 background-image:url(../img/Header.png);
 background-repeat:no-repeat;
