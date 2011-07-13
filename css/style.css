@@ -9,6 +9,18 @@ background-color:#f6f6f6;
 font:11px Verdana;
 }
 
+a:link {
+color: #4C8AC7; /* Цвет ссылок */
+}
+
+a:hover {
+color: #6198CC; /* Цвет активной ссылки */ 
+}
+
+a:visited {
+color: #4C8AC7; /* Цвет посещенных ссылок */
+}
+
 h1 {
 color:#CE0000;
 }
