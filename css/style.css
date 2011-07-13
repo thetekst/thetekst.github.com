@@ -12,7 +12,7 @@ color:#CE0000;
 
 #wrapper {
 width:650px;
-margin:0px auto;
+margin:30px auto;
 backgrond-color:#C3E0F9;
 }
 
@@ -35,7 +35,7 @@ top:120;
 
 #butt {
 position: absolute;
-left:294px;
+left:400px;
 top:-14px;
 }
 
@@ -43,6 +43,6 @@ top:-14px;
 position:fixed;
 width:32px;
 height:180px;
-top:150px;
+top:110px;
 left:0;
 }
