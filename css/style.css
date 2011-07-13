@@ -66,3 +66,8 @@ height:180px;
 top:110px;
 left:0;
 }
+
+.date, .auth {
+color:#CACACA;
+font: 8px Verdana;
+}
