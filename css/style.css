@@ -39,6 +39,10 @@ left:460px;
 top:-1px;
 }
 
+a img {
+border: none; /* Убираем рамку */
+}
+
 #phones {
 position:fixed;
 width:32px;
