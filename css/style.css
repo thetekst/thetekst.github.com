@@ -69,5 +69,9 @@ left:0;
 
 .date, .auth {
 color:#BFBFB3;
-font: 9px Verdana;
+font: 10px Verdana;
+}
+
+.auth {
+font: 9px;
 }
